@@ -1,0 +1,36 @@
+(defpackage :italiano (:use :cl :iterate))
+
+(in-package :italiano)
+(defconstant +unit-line-rx+ "^# *unita ([1-9])+:")
+(defconstant +line-with-translation-rx+ "^(.+) -> (.+)$")
+(defun get-words ()
+  (let ((unit 0))
+    (iter (for line in-file "italiano" using #'read-line)
+	  (let ((line (subseq line 0 (1- (length line)))))
+	   (multiple-value-bind (start end substarts subends)
+	       (cl-ppcre:scan +unit-line-rx+ line)
+	     (declare (ignorable start end substarts subends))
+	     (if start
+		 (setf unit (parse-integer (subseq line (elt substarts 0) (elt subends 0))))
+		 (multiple-value-bind (start end substarts subends)
+		     (cl-ppcre:scan +line-with-translation-rx+ line)
+		   (declare (ignorable start end substarts subends))
+		   (if start
+		       (let ((dutch-word (subseq line (elt substarts 0) (elt subends 0)))
+			     (italian-word (subseq line (elt substarts 1) (elt subends 1))))
+			 (collect (list unit dutch-word italian-word)))))))))))
+
+(defun questions (&optional (unit :all))
+  (iter (for (q-unit dutch italian) in (get-words))
+	(when (or (eq unit :all) (= q-unit unit))
+	  (format t "~a -> ~%" dutch))))
+
+(defun answers (&optional (unit :all))
+  (iter (for (q-unit dutch italian) in (get-words))
+	(when (or (eq unit :all) (= q-unit unit))
+	  (format t "~a~%" italian))))
+
+(defun questions-and-ansers (&optional (unit :all))
+  (iter (for (q-unit dutch italian) in (get-words))
+	(when (or (eq unit :all) (= q-unit unit))
+	  (format t "~a -> ~a~%" dutch italian))))
