@@ -555,7 +555,7 @@ ontbijten -> fare colazione
 het bed opmaken -> fare il letto
 een douche nemen -> fare la doccia
 
-koken -> cucinare
+koken -> cucinare/cuocere
 het ontbijt maken -> preparare la colazione
 kuisen -> pulire
 opruimen -> riordinare
@@ -663,6 +663,12 @@ de appelsien is een vrucht met veel vitaminen -> l'arancia è un frutto con molt
 de banaan -> la banana
 de appel -> la mela
 de peer -> la pera
+de aardbei -> la fragola
+de artisjok -> il carciofo
+de ajuin -> la cipolla
+de citroen -> il limone
+de kers -> la ciliegia
+de druiven -> l'uva
 
 de peper -> il pepe
 het zout -> il sale
@@ -685,6 +691,11 @@ de gekookte hesp -> il prosciutto cotto
 
 de salami (eerder: vlees, maar niet een stuk) -> il salame
 de kaas -> il formaggio
+
+de courgette -> la zucchina
+de aubergine -> la melanzana
+de champignon -> il fungo
+de paprika -> il peperone
 
 de olie -> l'olio (maschile)
 
@@ -724,6 +735,7 @@ het middagmaal -> il pranzo
 het middagmaal eten -> pranzare
 het avondeten -> la cena
 souperen -> cenare
+de snack -> la merenda
 
 de bar -> il bar
 de pizzeria -> la pizzeria
@@ -741,6 +753,9 @@ de vork -> la forchetta
 de lepel -> il cucchiaio
 het mes -> il coltello
 het glas -> il bicchiere
+
+het tafellaken -> la tovaglia
+het serviet -> il tovagliolo
 
 de liter -> il litro
 een halve liter -> mezzo litro
