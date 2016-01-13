@@ -36,6 +36,7 @@ de bank -> la banca
 het kantoor -> l'ufficio (maschile)
 het informatiekantoor -> l'ufficio informazioni
 de informatie -> l'informazione (feminile)
+de werkplaats -> un'officina
 
 het adres -> l'indirizzo
 de straat/weg -> la via
@@ -215,6 +216,7 @@ de metser -> il muratore
 de tuinman -> il contadino
 de politieman -> il poliziotto
 de advokaat -> l'avvocato
+de ingenieur -> l'ingegnere
 
 
 
@@ -231,8 +233,8 @@ vinden -> trovare
 wie zoekt, die vindt -> chi cerca, trova
 herstellen -> riparare
 verkopen -> vendere
-weten -> sapere
-kunnen -> potere
+weten -> sapere (so, sai, sa sappiamo, sapete, sanno)
+kunnen -> potere (posso, puoi, può, possiamo, potete, possono)
 slapen -> dormire
 bedienen -> servire
 afwerken -> finire
@@ -259,7 +261,7 @@ de vriendinnen -> le amiche
 gitaar spelen -> suonare la chitarra
 ik ga naar rome -> vado a roma
 ik ga naar Italië -> vado in Italia
-vallen -> calare
+vallen -> calare/cadere
 
 de familie -> la famiglia
 de (getrouwde) man -> il marito
@@ -348,6 +350,7 @@ de fietsen -> le bici
 het huis -> la casa
 bij mij thuis -> a casa mia
 het appartement -> l'appartamento (maschile)
+het appartementsgebouw -> il condominio/il palazzo
 de kamer -> la stanza/la camera
 de slaapkamer -> la camera da letto
 de ingang -> l'ingresso
@@ -359,6 +362,7 @@ de badkamer -> il bagno
 de keuken -> la cucina
 de garage -> il garage
 de tuin -> il giardino
+het balkon -> il balcone
 
 de muur -> la parete/il muro
 het raam -> la finestra
@@ -385,7 +389,8 @@ het bad -> la vasca
 de bidet -> il bidè
 
 de oven -> il forno
-de koelkast -> il frigo
+de frigo -> il frigo
+de koelkast -> il frigorifero
 
 de verjaardag -> il compleanno
 de verjaardag vieren -> fare il compleanno
@@ -432,12 +437,14 @@ geel -> giallo/a
 grijs -> grigio/a
 zwart -> nero/a
 rood -> rosso/a
-oranje -> arrancione
+oranje -> arancione
 bruin -> marrone
 bruine dozen -> scatole marroni
 groen -> verde (inv)
 blauw -> blu (inv)
 paars -> viola (inv)
+donker groen -> verde scuro
+licht groen -> verde chiaro
 
 dichtbij -> vicino a
 links van -> a sinistra di
@@ -449,11 +456,29 @@ boven (raakt aan) -> su
 boven (zonder aanraken) -> sopra
 onder -> sotto
 achter -> dietro
+ver van -> lontano da
+tegenover -> di fronte a
 
 tamelijk -> abbastanza
 mijn slaapkamer is tamelijk groot -> la mia camera da letto è abbastanza grande
 zeer -> molto
 ik woon in een zeer groot rijhuis -> abito in una casa a schiera molto grande
+
+het object -> il oggetto
+antiek -> antico (accento sulla i)
+in de hoek -> nell'angolo
+tegen de muur -> contro il muro
+naast -> accanto a/di fianco a
+de hanger -> il attaccapanni
+de trappen -> le scale
+de ladder -> la scala
+een trap -> uno scalino
+de kelder -> la cantina
+een alleenstaand huis -> la villa
+de studio -> il monolocale
+de bureau -> la scrivania
+de wagon -> il vagone
+de rakket -> il razzo
 
 # unita 5: la vita quotidiana
 ####
@@ -506,6 +531,7 @@ de tijd -> il tempo
 de vrije tijd -> il tempo libro
 de tuin -> il giardino
 in de tuin werken -> lavorare in giardino
+tennis spelen -> giocare a tennis
 
 vervelend -> noioso/a
 ontspannend -> rilassante
@@ -529,7 +555,7 @@ ontbijten -> fare colazione
 het bed opmaken -> fare il letto
 een douche nemen -> fare la doccia
 
-koken -> cucinare
+koken -> cucinare/cuocere
 het ontbijt maken -> preparare la colazione
 kuisen -> pulire
 opruimen -> riordinare
@@ -546,6 +572,7 @@ skieën -> sciare
 zwemmen -> nuotare
 spelen -> giocare
 lopen -> correre
+wandelen -> camminare
 
 gaan -> andare
 met (een gemechaniseerd vervoersmiddel) gaan -> andare in (macchina/treno/autobus/aereo/bici)
@@ -581,10 +608,208 @@ elke -> ogni
 ik eet elke dag ontbijt -> faccio colazione ogni giorno
 maar -> mà/però
 ik kook bijna nooit, maar ik kuis vaak het huis -> non cucino quasi mai, però pulisco spesso la casa
+ik ga maandag naar italie -> lunedì vado in italia
+'s maandags speel ik piano -> il lunedì suono il piano
+
+vandaag is het dinsdag -> oggi e martedì
+vandaag is het woensdag 7 september -> oggi e mercoledì 7 settembre
+vandaag is het 19 juli -> oggi è il 19 luglio
+
+'s morgens neem ik een douche -> la mattina mi faccio la doccia
+
+het is 5 na 3 -> sono le tre e cinque
+het is 1 voor 1 -> è l'una meno uno
+het is kwart na 5 -> sono le cinque e un quarto
+het is kwart voor 9 -> sono le nove meno un quarto
+
+naar buiten gaan -> uscire (esco, esci, esce, usciamo, uscite, escono)
+vandaag ben ik echt kwaad -> oggi sono proprio arrabiato
+
+de frequentie -> la frequenza
+
+de dokter, de dokters -> il medico, i medici
+de collega, de collega's -> il collega, i colleghi
+de vriend, de vrienden -> il amico, i amici
+
+ze brengen steeds hun vakantie door met hun vrienden > passano sempre le vacanze con i loro amici.
+leef je nog steeds bij je ouders -> vivi sempre dai tuoi genitori
+
+die leerkrachten -> quei professori
+die appartementen -> quegli appartamenti
+weet je waar ik een tandeborstel kan kopen -> sai dove posso comprare uno spazzolino da denti
 
 
+# unita 6: a tavola
+######
+de honger -> la fame
+honger hebben -> avere fame
+de dorst -> la sete
+dorst hebben -> avere sete
 
-# weetjes
+boodschappen doen -> fare la spesa
+
+de groenten -> la verdura
+de wortel -> la carota
+de sla -> l'insalata (feminile)
+de aardappel -> la patata
+de frietjes -> le patatine fritte
+de tomaat -> il pomodoro
+
+het fruit -> la frutta
+de vrucht -> il frutto
+je moet veel fruit eten -> devi mangiare molta frutta
+de appelsien -> l'arancia (feminile)
+de appelsien is een vrucht met veel vitaminen -> l'arancia è un frutto con molte vitamine
+de banaan -> la banana
+de appel -> la mela
+de peer -> la pera
+de aardbei -> la fragola
+de artisjok -> il carciofo
+de ajuin -> la cipolla
+de citroen -> il limone
+de kers -> la ciliegia
+de druiven -> l'uva
+
+de peper -> il pepe
+het zout -> il sale
+
+de bloem (om brood te bakken) -> la farina
+de boter -> il burro
+het ei -> l'uovo (maschile)
+de eieren -> le uova
+koop vier eieren voor de taart -> compra 4 uova per la torta
+de suiker -> lo zucchero
+
+het brood -> il pane
+de jam -> la marmellata
+het koekje -> il biscotto
+de boterham -> il panino
+
+de hesp -> il prosciutto
+de rauwe hesp -> il prosciutto crudo
+de gekookte hesp -> il prosciutto cotto
+
+de salami (eerder: vlees, maar niet een stuk) -> il salame
+de kaas -> il formaggio
+
+de courgette -> la zucchina
+de aubergine -> la melanzana
+de champignon -> il fungo
+de paprika -> il peperone
+
+de olie -> l'olio (maschile)
+
+de pasta -> la pasta
+de saus -> il sugo
+de spaghetti -> gli spaghetti
+de spaghetti bolognese -> gli spaghetti al ragù
+de lasagna -> le lasagne
+de penne -> le penne
+de penne all'arrabiata -> le penne all'arrabiata
+de risotto -> il risotto
+
+het vlees -> la carne
+de kip -> il pollo
+de vis -> il pesce
+
+de drank -> la bevanda/la bibita
+het water -> l'acqua (feminile)
+plat water -> l'acqua naturale
+bruiswater -> l'acqua gasata
+
+het bier -> la birra
+de wijn -> il vino
+witte wijn -> il vino bianco
+rode wijn -> il vino rosso
+
+het sap -> il succo
+fruitsap -> il succo di frutta
+appelsiensap -> il succo d'arancia
+
+de koffie -> il caffè
+de cappuccino -> il cappucino
+de melk -> il latte
+de thee -> il tè
+
+het middagmaal -> il pranzo
+het middagmaal eten -> pranzare
+het avondeten -> la cena
+souperen -> cenare
+de snack -> la merenda
+
+de bar -> il bar
+de pizzeria -> la pizzeria
+het restaurant -> il ristorante
+het menu -> il menù
+het apperitief -> l'aperitivo
+het voorgerecht -> il primo (piatto)
+het hoofdgerecht -> il secondo (piatto)
+het bijgerecht -> il contorno
+het nagerecht -> il dolce
+de rekening -> il conto
+
+het gerecht -> il piatto
+de vork -> la forchetta
+de lepel -> il cucchiaio
+het mes -> il coltello
+het glas -> il bicchiere
+
+het tafellaken -> la tovaglia
+het serviet -> il tovagliolo
+
+de liter -> il litro
+een halve liter -> mezzo litro
+ik zou een halve liter wijn van het huis willen -> vorrei mezzo litro de vino della casa
+de fles -> la bottiglia
+wij wensen een fles witte wijn -> verremo una bottiglia di vino bianco
+
+de mensen -> la gente
+in italie ontbijten mensen vaak in de bar -> in italia, la gente fa spesso la colazione al bar
+
+nemen -> prendere
+bestellen -> ordinare
+willen -> volere
+
+koken -> cucinare
+bereiden -> preparare
+drinken -> bere (bevo, bevi, beve, beviamo, bevete, bevono)
+eten -> mangiare
+
+warm -> caldo/a
+koud -> freddo/a
+lekker -> buono/a
+goed -> bene
+in dat restaurant kan je echt lekker eten -> in questo ristorante si mangia veramente bene
+
+niets -> niente
+ik eet niets -> non mangio niente
+een beetje -> un po' di
+doe een beetje zout in de soep -> metti un po' di sale nella zuppa
+zonder -> senza
+drink je koffie met of zonder suiker -> bevi caffè con o senza zucchero
+
+eerst -> prima
+daarna -> poi
+eerst is hij naar de universiteit gegaan, daarna heeft hij het avondeten gegeten -> prima è andato all'università poi ha cenato
+
+of -> o/oppure (oppure solo dopo una parola, non iniziare con oppure)
+vanavond blijven we thuis of gaan we naar de cinema -> stasera restiamo a casa o andiamo al cinema
+waarom -> perché
+omdat -> perché
+ik ga naar het zwembad omdat ik graag zwem -> vado alla picina perché mi piace nuotare
+waar -> dove
+de fitness is een plaats waar je gymnastiek kan doen -> la palestra è un posto dove si fa ginnastica
+wanneer -> quando
+toen ik van vakantie terruggekeerd ben, heb ik een brief van marco gevonden -> quando sono tornato dalle vacanze, ho trovato una lettera di marco
+
+ik werk van 9 tot 5 -> lavoro dalle 9 alle 5
+
+aan tafel! -> a tavola
+
+yoghurt -> dello yogurt
+
+
+# unita 7: weetjes
 ######
 
 altijd
@@ -601,3 +826,19 @@ in cucina <==> nella cucina nuova
 pero!!
 nello studio
 nell' ingresso
+
+in een streek -> in sicilia
+in een land -> in italia
+in een stad -> a roma
+
+
+CRAP!!!
+Lisa ha una bella casa, ma la sua camera da letto è piccola.
+Signore, quello rosso è il Suo libro di grammatica.
+Ragazze, le vostre chiavi sono sul tavolo.
+Ho una macchina : la mia macchina è rossa.
+Ieri sono andata con mia sorella a fare una passeggiata.
+Ada ha dimenticato le sue matite a scuola.
+(io) I miei genitori hanno molti amici : i loro amici sono gentilissimi.
+Franca, sono queste le tue sigarette ?
+Abbiamo uno zio : nostro zio si chiama Tom e vive in America. 
